@@ -94,4 +94,3 @@ Ett superfoods-objekt returneras som JSON med följande struktur:
 
   ```
   
-# MediCare-API
